@@ -23,8 +23,8 @@ export function Contact() {
 
   const socialLinks = [
     { icon: Mail, label: "Email", href: "mailto:goyalhemang75@gmail.com", value: "goyalhemang75@gmail.com" },
-    { icon: Linkedin, label: "LinkedIn", href: "https://linkedin.com", value: "LinkedIn" },
-    { icon: Github, label: "GitHub", href: "https://github.com", value: "GitHub" },
+    { icon: Linkedin, label: "LinkedIn", href: "https://www.linkedin.com/in/hemanggoyal75", value: "LinkedIn" },
+    { icon: Github, label: "GitHub", href: "https://github.com/hemang-75", value: "GitHub" },
   ]
 
   return (

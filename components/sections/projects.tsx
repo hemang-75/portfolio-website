@@ -2,7 +2,7 @@
 
 import { Card } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { ArrowUpRight } from "lucide-react"
+import { ArrowUpRight, Github } from "lucide-react"
 
 const projects = [
   {
@@ -82,6 +82,19 @@ export function Projects() {
               </div>
             </Card>
           ))}
+        </div>
+
+        <div className="flex justify-center pt-8">
+          <a
+            href="https://github.com/hemang-75"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-semibold group"
+          >
+            <Github className="w-5 h-5" />
+            <span>View More Projects on GitHub</span>
+            <ArrowUpRight className="w-4 h-4 group-hover:translate-x-1 group-hover:-translate-y-1 transition-transform" />
+          </a>
         </div>
       </div>
     </section>
