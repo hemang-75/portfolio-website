@@ -41,7 +41,7 @@ export function Hero() {
             <span>Years Experience</span>
           </div>
           <div className="flex flex-col items-center gap-2">
-            <span className="text-2xl font-bold text-accent">100+</span>
+            <span className="text-2xl font-bold text-accent">20+</span>
             <span>ML Projects</span>
           </div>
           <div className="flex flex-col items-center gap-2">

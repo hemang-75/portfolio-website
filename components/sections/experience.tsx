@@ -16,10 +16,10 @@ const experiences = [
       "Mentored 20+ professionals in Citizen Data Scientist program",
       "Fine-tuned DistilBERT for ESG classification (92% accuracy, 0.94 AUC)",
     ],
-    skills: ["LLMs", "AI Agents", "RAG", "LangSmith", "Python", "Databricks"],
+    skills: ["LLMs", "AI Agents", "RAG", "Langchain", "NLP", "Langgraph", "SQL", "AWS", "Azure", "LangSmith", "Python"],
   },
   {
-    title: "ML Engineer",
+    title: "Data Scientist",
     company: "Decimal Point Analytics",
     location: "Mumbai, India",
     period: "Aug 2019 – Mar 2021",
@@ -32,7 +32,7 @@ const experiences = [
     skills: ["Computer Vision", "R-CNN", "AWS", "Python", "Deep Learning"],
   },
   {
-    title: "Senior Research Engineer",
+    title: "Software Engineer",
     company: "Samsung",
     location: "Noida, India",
     period: "Jun 2017 – Jul 2019",
