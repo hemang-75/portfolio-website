@@ -5,21 +5,22 @@ import { Card } from "@/components/ui/card"
 const skillCategories = [
   {
     category: "Languages & Tools",
-    skills: "Python, SQL, TypeScript, AWS, Azure, Airflow, Docker, Databricks, FastAPI, Pinecone",
+    skills: "Python, SQL, TypeScript, AWS, Azure, GCP, Airflow, Docker, FastAPI, Pinecone, Snowflake, Databricks",
   },
   {
     category: "ML Frameworks",
-    skills: "PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, Neo4j, PySpark, Pydantic, DSPy, CrewAI",
+    skills:
+      "PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, Neo4j, PySpark, Pydantic, DSPy, CrewAI, LlamaIndex",
   },
   {
     category: "GenAI & LLMs",
     skills:
-      "LLMs (Llama, Mistral, Claude), AI Agents, RAG, Multimodal AI, Fine-tuning (LoRA, RLHF), Prompt Engineering",
+      "LLMs (Llama, Mistral, Claude, Gemini), AWS Bedrock, GCP Vertex AI, AI Agents, RAG, AutoGen, MCP, Google ADK, Multimodal AI, Fine-tuning (LoRA, RLHF), Prompt Engineering",
   },
   {
     category: "MLOps & DevOps",
     skills:
-      "CI/CD, MLflow, SageMaker, Kubernetes, Terraform, A/B Testing, Model Monitoring, Data Pipeline Orchestration",
+      "CI/CD, MLflow, SageMaker, Kubernetes, Terraform, A/B Testing, Model Monitoring, ML Pipelines, Grafana, Streamlit",
   },
 ]
 

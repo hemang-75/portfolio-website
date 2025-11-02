@@ -10,7 +10,7 @@ const projects = [
     subtitle: "Enterprise GenAI Platform",
     description:
       "Internal AI platform powered by LLMs and AI Agents for RAG-based document QnA, interrogation, and multilingual translation.",
-    metrics: ["8,000+ global users", "95%+ accuracy", "Real-time processing"],
+    metrics: ["8,000+ global users", "Real-time processing"],
     tags: ["LLMs", "AI Agents", "RAG", "LangSmith", "Python", "Databricks"],
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     description:
       "LLM-powered pipeline for automated financial commentary generation, reducing manual reporting time from 2 weeks to 10 minutes.",
     metrics: ["95% accuracy", "500+ documents", "Daily automation"],
-    tags: ["LLMs", "NLP", "Pipeline Architecture", "Python"],
+    tags: ["LLMs", "NLP", "Pipeline Architecture", "Batch Processing", "Python"],
   },
   {
     title: "R-CNN Table Extractor",
